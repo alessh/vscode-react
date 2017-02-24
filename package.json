@@ -3,7 +3,7 @@
   "description": "Code snippets for Reactjs development in ES6 syntax",
   "version": "1.2.1",
   "displayName": "Reactjs code snippets",
-  "publisher": "xabikos",
+  "publisher": "alessh",
   "icon": "images/react.png",
   "galleryBanner": {
     "theme": "light"
@@ -11,7 +11,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xabikos/vscode-react"
+    "url": "https://github.com/alessh/vscode-react"
   },
   "engines": {
     "vscode": "0.10.x"
