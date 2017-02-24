@@ -2,9 +2,9 @@
 ## VS Code Reactjs snippets
 -------------------
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
-[![Installs](http://vsmarketplacebadge.apphb.com/installs/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+[![Version](http://vsmarketplacebadge.apphb.com/version/alessh.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=alessh.ReactSnippets)
+[![Installs](http://vsmarketplacebadge.apphb.com/installs/alessh.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=alessh.ReactSnippets)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/alessh.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=alessh.ReactSnippets)
 
 This extension contains code snippets for [Reactjs][react] and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
@@ -102,4 +102,4 @@ For example ```pta``` creates the ```PropTypes.array``` and ```ptar``` creates t
 
 [react]: https://facebook.github.io/react/
 [babelsublime]: https://github.com/babel/babel-sublime-snippets
-[javacript]: https://github.com/xabikos/vscode-javascript
+[javacript]: https://github.com/alessh/vscode-javascript
